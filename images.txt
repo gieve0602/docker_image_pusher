@@ -4,4 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #
-rook/ceph:v1.13.10 rook-ceph:v1.13.10
+elasticsearch:8.11.0 elasticsearch:8.11.0
+jumpserver/jms_all:latest jms_all:latest
