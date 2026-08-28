@@ -4,4 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #
-eclipse-temurin:8u502-b07-jdk-ubi10-minimal eclipse-temurin:8u502-jdk
+nginx:alpine nginx:alpine
+redis:alpine redis:alpine
